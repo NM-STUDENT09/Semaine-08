@@ -200,3 +200,6 @@ Par défaut la taille réelle d'un élément est calculé en prenant en compte s
 
 ![border-box](images/mesures/border-box.png)
 
+[:book:Voir un exemple](https://www.w3schools.com/css/css3_box-sizing.asp)
+
+[:arrow_up:Revenir au top](#Mesures)

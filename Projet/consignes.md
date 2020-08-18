@@ -4,9 +4,9 @@ Bonjour à tous et bienvenue pour ce premier projet de notre second cycle d'appr
 Comme indiqué dans le titre vous allez être amenés à créer une plateforme permettant aux utilisateurs de poster des articles.
 À titre d'exemple voici quelques sites se basant sur ce principe:
 
-1. Medium: https://medium.com/
-2. Dev.to: https://dev.to/
-3. Reddit: https://www.reddit.com/
+1. Medium: [https://medium.com/](https://medium.com/)
+2. Dev.to: [https://dev.to/](https://dev.to/)
+3. Reddit: [https://www.reddit.com/](https://www.reddit.com/)
 
 ## Votre client
 
@@ -65,18 +65,18 @@ Je vous conseille fortement de la réaliser d'abord sur papier / outils de trait
 
 Pour vous aider quelques liens utiles:
 
-Trello vous permet de créer un système de ticket et de les assigner aux membre de votre équipe, vous pouvez découper le tableau par fonctionnalités puis par tâche: https://trello.com/fr
+Trello vous permet de créer un système de ticket et de les assigner aux membre de votre équipe, vous pouvez découper le tableau par fonctionnalités puis par tâche: [https://trello.com/fr](https://trello.com/fr)
 
 Un très bon PDF sur la gestion de projet : http://perso.citi.insa-lyon.fr/sfrenot/cours/PI/cours/4TCCMPI-Gestion-de-projet-User-stories-v1.1-2014.pdf
 
-Un exemple d'analyse fonctionnelle : //TODO
+Un exemple d'analyse fonctionnelle : [c'est par ici](exemple-analyse.md)
 
 ### Etape 3
 
 Concevoir un wireframe.
 Le wireframe est une version épurée de ce qui constituera votre site.
 Les pages, les interractions utilisateurs et les divers éléments constituants votre application 
-Voici un exemple de wireframe: http://glossaire.infowebmaster.fr/wireframe-site-web/
+Voici un exemple de wireframe: [http://glossaire.infowebmaster.fr/wireframe-site-web/](http://glossaire.infowebmaster.fr/wireframe-site-web/)
 
 ### Etape 4
 
@@ -86,7 +86,7 @@ Vous travaillez en synchronisation à l'élaboration des fonctionnalités, du de
 #### Tips et astuces
 
 Le back-end n'est pas encore disponible? Créez un fichier "mock". Le fichier mock est un fichier au format JSON qui contiendra des "fake data", des données inventées pour tester l'affichage et le fonctionnement de vos services front-end
-Le front-end n'est pas encore disponible? Testez vos endpoint et vos controllers à l'aide de postman! Il s'agit d'un logiciel permettant d'envoyer des requêtes client vers votre serveur et de vous afficher la réponse! https://www.postman.com/downloads/
+Le front-end n'est pas encore disponible? Testez vos endpoint et vos controllers à l'aide de postman! Il s'agit d'un logiciel permettant d'envoyer des requêtes client vers votre serveur et de vous afficher la réponse! [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
 
 ## Objectifs hebdomadaires
 
