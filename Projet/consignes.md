@@ -8,6 +8,16 @@ Comme indiqué dans le titre vous allez être amenés à créer une plateforme p
 2. Dev.to: [https://dev.to/](https://dev.to/)
 3. Reddit: [https://www.reddit.com/](https://www.reddit.com/)
 
+
+## Groupes
+
+Groupe 1 | Groupe 2 | Groupe 3
+--- | --- | ---
+(Ziadoon) Brahima | Yana | Nathalie
+Mohamed Ben | Mohamed Bah | Virginie
+Régine | Solange | Rachel
+Jason | Natasha | Joellie
+
 ## Votre client
 
 Je vous présente Jean Ratpahune, Sam Shanboule et Jenny Peurin. Une joyeuse bande de jeunes entrepreneurs avec une bonne idée: créer un média collaboratif, une plateforme sur laquelle les utilisateurs pourront délivrer leurs connaissances sur des sujets divers sous format d'articles et de billets d'humeur.
