@@ -42,3 +42,7 @@ Dans l'ordre des numéros attribués, chacun va réalisez les étapes suivantes:
 10. Ensuite n'oubliez pas de `Push Origin`
 11. Ensuite indiquez au numéro suivant d'éffectuer la procédure de cette Etape 3
 12. Si vous êtes le numéro 1, rajouter des lignes à votre fichier quand le numéro 4 aura fini, ainsi vous verrez la procédure de résolution de conflit aussi.
+
+### Etape BONUS
+
+1. Ramenez les commits de la branche `dev`sur `master`. Jetez un coup d'oeil à l'interface de Github Desktop...
