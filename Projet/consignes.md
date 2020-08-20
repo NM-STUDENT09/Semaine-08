@@ -13,7 +13,7 @@ Comme indiqué dans le titre vous allez être amenés à créer une plateforme p
 
 Groupe 1 | Groupe 2 | Groupe 3
 --- | --- | ---
-(Ziadoon) Brahima | Yana | Nathalie
+Brahima | Yana | Ziadoon
 Mohamed Ben | Mohamed Bah | Virginie
 Régine | Solange | Rachel
 Jason | Natasha | Joellie
