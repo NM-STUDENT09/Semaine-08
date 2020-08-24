@@ -5,6 +5,7 @@ Tout comme en Javascript nous y retrouverons des déclarations de variables, des
 Le PHP est également un language orienté objet. 
 
 Voici un lien vers votre nouvelle bible, après la MDN, la documentation PHP: https://www.php.net/manual/fr/index.php
+Le bloc de cours qui suit est une synthèse des éléments de la doc et du très bon cours de Pierre Giraud que je vous demande de lire pour l'apprentissage de la matière: https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/introduction/
 
 ## Table des matières
 
